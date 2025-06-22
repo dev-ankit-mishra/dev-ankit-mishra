@@ -18,7 +18,8 @@
 
 ### 📈 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ankit-mishra&show_icons=true&theme=radical)](https://github.com/dev-ankit-mishra)
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ankit-mishra&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ankit-mishra&layout=compact)](https://github.com/dev-ankit-mishra)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ankit-mishra&theme=dark)](https://git.io/streak-stats)  
+
 
   
