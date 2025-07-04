@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ankit Mishra
 
-### 👨‍💻 Frontend Engineer | React Developer | Open Source Contributor  
+### 👨‍💻 Software Engineer | Full-Stack Developer 
 🎯 Passionate about building scalable, real-time web apps with great UI/UX.
 
 ---
