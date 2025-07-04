@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 Currently Working On
-- 💻 Real-time collaborative code editor — `codeCollab`
+- 💻 Real-time collaborative code editor — `CoDevSpace`
 - 🌐 Portfolio site with Framer Motion animations — [`ankitmishra.pro`](https://ankitmishra.pro)
 
 ---
