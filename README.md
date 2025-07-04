@@ -1,24 +1,59 @@
-# Hi there 👋, I'm Ankit Mishra  
+# Hi there 👋, I'm Ankit Mishra
 
-### Full-Stack Developer | Open-Source Contributor  
+### 👨‍💻 Frontend Engineer | React Developer | Open Source Contributor  
+🎯 Passionate about building scalable, real-time web apps with great UI/UX.
 
-🔭 **Currently Working On:** NeoBank Project  
-🌱 **Learning:** Node.js, Next.js, Express
+---
 
-💬 **Ask Me About:** React, Node.js, Java, JavaScript
+### 🚀 Currently Working On
+- 💻 Real-time collaborative code editor — `codeCollab`
+- 🌐 Portfolio site with Framer Motion animations — [`ankitmishra.pro`](https://ankitmishra.pro)
 
-📫 **How to Reach Me:** Email: developer.ankitmishra@gmail.com
-                        LinkedIn: https://www.linkedin.com/in/ankit-mishra-44a179225/
+---
 
-### 🛠️ Tech Stack  
-- **Frontend:** React, Next.js, TailwindCSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, PostgreSQL  
-- **Languages:** Java, JavaScript
+### 🌱 Currently Learning
+- **Next.js**, **CI/CD**, and performance optimization  
+- Exploring **system design** and frontend testing with **Jest**, **React Testing Library**, and **Vitest**
 
-### 📈 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ankit-mishra&layout=compact)](https://github.com/dev-ankit-mishra)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ankit-mishra&theme=dark)](https://git.io/streak-stats)  
+---
 
+### 💬 Ask Me About
+- React, Tailwind CSS, JavaScript, Node.js, TypeScript, Supabase  
+- Building real-time apps using WebSocket and full-stack project architecture
 
-  
+---
+
+### 📫 Reach Me At
+- 📧 Email: [contact@ankitmishra.pro](mailto:contact@ankitmishra.pro)  
+- 🔗 LinkedIn: [linkedin.com/in/dev-ankit-mishra](https://www.linkedin.com/in/dev-ankit-mishra)  
+- 🌍 Portfolio: [ankitmishra.pro](https://ankitmishra.pro)  
+- 📍 Based in Varanasi, India | **Open to Relocate**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS` `Framer Motion`
+
+**Backend & APIs:**  
+`Node.js` `Express` `REST APIs` `WebSocket`
+
+**Authentication & Realtime:**  
+`Supabase` `Firebase`
+
+**Database:**  
+`MongoDB` `PostgreSQL`
+
+**Testing & Dev Tools:**  
+`Jest` `React Testing Library` `Vitest` `GitHub Actions` `Vite` `Postman`
+
+**Languages:**  
+`JavaScript` `TypeScript` `Java` `C++` `SQL`
+
+---
+
+### 📊 GitHub Stats  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ankit-mishra&layout=compact&theme=tokyonight)](https://github.com/dev-ankit-mishra)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ankit-mishra&theme=tokyonight)](https://git.io/streak-stats)
