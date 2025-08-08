@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ankit Mishra
 
 ### 👨‍💻 Software Engineer | Full-Stack Developer 
-🎯 Passionate about building scalable, real-time web apps with great UI/UX.
+🎯  Building scalable, real-time web apps with great UI/UX.
 
 ---
 
