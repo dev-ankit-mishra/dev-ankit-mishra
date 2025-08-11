@@ -19,7 +19,7 @@
 
 ### 💬 Ask Me About
 - React, Tailwind CSS, JavaScript, Node.js, TypeScript, Supabase  
-- Building real-time apps using WebSocket and full-stack project architecture
+- Building real-time apps using Socket.Io and full-stack project architecture
 
 ---
 
