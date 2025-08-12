@@ -43,7 +43,7 @@
 `Supabase` `Firebase`
 
 **Database:**  
-`MongoDB` `PostgreSQL`
+`MySQL` `MongoDB` `PostgreSQL`
 
 **Testing & Dev Tools:**  
 `Jest` `React Testing Library` `Vitest` `GitHub Actions` `Vite` `Postman`
