@@ -34,7 +34,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**  
-`React` `Next.js` `Tailwind CSS` `Framer Motion`
+`React.js` `Next.js` `Tailwind CSS` `Framer Motion`
 
 **Backend & APIs:**  
 `Node.js` `Express` `REST APIs` `WebSocket`
